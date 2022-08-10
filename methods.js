@@ -23,10 +23,9 @@ app.listen('3000')
 // let author = "Nay"
 // app.route('/').get( (req,res)=> res.send(author) )
 // app.route('/').put( (req,res) => {
-//     author = req.body
-// })
+//     author = req.body.author
 //     res.send(author)
-
+// })
 
 //método delete
 
